@@ -1,0 +1,12 @@
+{
+  "name": "Programming_Exercise_DataHero",
+  "description": "Sample app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "cloudfoundry" : "",
+     "ya-csv" : "",
+      "mongoskin" : ""
+  } 
+}
